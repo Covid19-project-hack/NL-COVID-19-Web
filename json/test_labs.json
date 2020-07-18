@@ -2,63 +2,69 @@
     "data": [
         {
             "sno": "1",
-            "name": "Indira Gandhi Medical College, Shimla",
+            "name": "State Referral BSL Laboratory, Naga Hospital, Kohima ",
             "type": "Government",
-            "test_type": "RT-PCR"
+            "test_type": "True NAT"
         },
         {
             "sno": "2",
-            "name": " Dr Rajendra Prasad Govt Medical College, Tanda",
+            "name": " Imkongliba Memorial District Hospital, Mokokchung",
             "type": "Government",
             "test_type": "RT-PCR"
         },
         {
             "sno": "3",
-            "name": " Central Research Institute, Kasauli ",
+            "name": " District Hospital, Mon",
             "type": "Government",
             "test_type": "RT-PCR"
         },
         {
             "sno": "4",
-            "name": " Shri Lal Bahadur Shastri Govt Medical College, Mandi",
+            "name": " District Hospital, Dimapur, Nagaland",
             "type": "Government",
             "test_type": "RT-PCR"
         },
         {
             "sno": "5",
-            "name": " CSIR Institute of Himalayan Bioresource Technology, Palampur",
+            "name": " CHC, Jalunkie, Nagaland",
             "type": "Government",
             "test_type": "RT-PCR"
         },
         {
             "sno": "6",
-            "name": " Dr Yashwant Singh Parmar Government Medical College, Nahan",
+            "name": " District Hospital, Zunheboto",
             "type": "Government",
             "test_type": "RT-PCR"
         },
         {
             "sno": "7",
-            "name": " Pt JLN Government Medical College and Hospital, Chamba ",
+            "name": " District Hospital, Wokha",
             "type": "Government",
             "test_type": "RT-PCR"
         },
         {
             "sno": "8",
-            "name": " Zonal Hospital, Mandi",
+            "name": " District Hospital, Tuensang",
             "type": "Government",
-            "test_type": "TrueNat"
+            "test_type": "RT-PCR"
         },
         {
             "sno": "9",
-            "name": " Dr Radhakrishnan Government Medical College, Hamirpur",
+            "name": " District Hospital, Phek",
             "type": "Government",
-            "test_type": "TrueNat"
+            "test_type": "RT-PCR"
         },
         {
             "sno": "10",
-            "name": " Regional Hospital, Una ",
+            "name": " District Hospital, Kiphire",
             "type": "Government",
-            "test_type": "TrueNat"
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "11",
+            "name": " District Hospital, Longleng ",
+            "type": "Government",
+            "test_type": "RT-PCR"
         }
     ]
 }
